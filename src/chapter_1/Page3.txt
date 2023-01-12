@@ -1,0 +1,6 @@
+Add another file to make changes
+- Commit the file
+- Now push the file
+- To push a file go to the Git menu à
+Push
+- In the next popup click push

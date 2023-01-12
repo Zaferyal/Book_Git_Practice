@@ -1,0 +1,3 @@
+Create new package – chapter 2
+? Can you track the package at this point ?
+● Create two new files – pages and types some text

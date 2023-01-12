@@ -1,0 +1,3 @@
+Commit the changes
+● Push the changes
+● Go to GitHub to check the new changes
