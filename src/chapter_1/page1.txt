@@ -1,0 +1,5 @@
+Hello world
+welcome my story
+This is git practice
+Green colour is ready to be part of a repository
+Red colour i ready to load to git
